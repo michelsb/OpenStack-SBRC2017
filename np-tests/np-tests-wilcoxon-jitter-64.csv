@@ -1,0 +1,5 @@
+Scenario Statistic P-Value "Alternative Hypothesis"
+1 4543.5 0.25339885301638976 two.sided
+3 4669.5 0.40568919440195667 two.sided
+5 4034.0 0.011933879583943563 two.sided
+7 9881.5 1.4867032383948663e-33 two.sided

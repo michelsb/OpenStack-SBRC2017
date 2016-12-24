@@ -1,0 +1,39 @@
+ITGDec version 2.8.1 (r1023)
+Compile-time options: bursty multiport
+----------------------------------------------------------
+Flow number: 1
+From 192.168.10.7:50424
+To    192.168.10.5:8999
+----------------------------------------------------------
+Total time               =      9.998671 s
+Total packets            =         99000
+Minimum delay            =      0.000003 s
+Maximum delay            =      1.000128 s
+Average delay            =      0.002066 s
+Average jitter           =      0.000224 s
+Delay standard deviation =      0.044901 s
+Bytes received           =      25344000
+Average bitrate          =  20277.894932 Kbit/s
+Average packet rate      =   9901.315885 pkt/s
+Packets dropped          =             2 (0.00 %)
+Average loss-burst size  =      2.000000 pkt
+----------------------------------------------------------
+
+__________________________________________________________
+****************  TOTAL RESULTS   ******************
+__________________________________________________________
+Number of flows          =             1
+Total time               =      9.998671 s
+Total packets            =         99000
+Minimum delay            =      0.000003 s
+Maximum delay            =      1.000128 s
+Average delay            =      0.002066 s
+Average jitter           =      0.000224 s
+Delay standard deviation =      0.044901 s
+Bytes received           =      25344000
+Average bitrate          =  20277.894932 Kbit/s
+Average packet rate      =   9901.315885 pkt/s
+Packets dropped          =             2 (0.00 %)
+Average loss-burst size  =      2.000000 pkt
+Error lines              =             0
+----------------------------------------------------------
